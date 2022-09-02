@@ -5,6 +5,8 @@
     - [前端基础知识](https://github.com/zzzhim/note/tree/master/WebBase/)
 
 
+![I Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=zzzhim&show_icons=true&count_private=true&theme=gotham)
+
 <!--
 **zzzhim/zzzhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

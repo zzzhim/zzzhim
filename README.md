@@ -1,4 +1,9 @@
-### Hi there 👋
+- 前端笔记
+    * [ES6](https://github.com/zzzhim/note/tree/master/ES6/)
+    - [JavaScript 设计模式](https://github.com/zzzhim/note/tree/master/JsPattern/)
+    - [TypeScript笔记](https://github.com/zzzhim/note/tree/master/TypeScript/)
+    - [前端基础知识](https://github.com/zzzhim/note/tree/master/WebBase/)
+
 
 <!--
 **zzzhim/zzzhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

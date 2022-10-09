@@ -4,7 +4,7 @@
     - [TypeScript笔记](https://github.com/zzzhim/note/tree/master/TypeScript/)
     - [前端基础知识](https://github.com/zzzhim/note/tree/master/WebBase/)
     - [React 基础知识](https://github.com/zzzhim/note/tree/master/React/)
-    - [React 基础知识](https://github.com/zzzhim/note/tree/master/Algorithm/)
+    - [基础算法知识](https://github.com/zzzhim/note/tree/master/Algorithm/)
 
 
 <!--
